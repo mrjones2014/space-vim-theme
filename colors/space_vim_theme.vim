@@ -30,7 +30,7 @@ if &background ==# 'dark'
     hi SignColumn ctermfg=249 ctermbg=NONE guifg=#b2b2b2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi VertSplit ctermfg=234 ctermbg=NONE guifg=#212026 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   else
-    hi Normal ctermfg=249 ctermbg=235 guifg=#b2b2b2 guibg=#292b2e guisp=NONE cterm=NONE gui=NONE
+    hi Normal ctermfg=249 ctermbg=235 guifg=#b2b2b2 guibg=#NONE guisp=NONE cterm=NONE gui=NONE
     hi CursorLineNr ctermfg=170 ctermbg=234 guifg=#bc6ec5 guibg=#212026 guisp=NONE cterm=NONE gui=NONE
     hi FoldColumn ctermfg=170 ctermbg=234 guifg=#bc6ec5 guibg=#212026 guisp=NONE cterm=NONE gui=NONE
     hi SignColumn ctermfg=249 ctermbg=235 guifg=#b2b2b2 guibg=#292b2e guisp=NONE cterm=NONE gui=NONE
